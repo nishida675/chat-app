@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const links = [
   { href: "/demo", label: "お試し" },
-  { href: "/chat", label: "Chat" },
+  { href: "/group", label: "グループ" },
   { href: "/about", label: "About" },
 ];
 
